@@ -22,3 +22,4 @@
 ![LAYOUT 1](https://github.com/user-attachments/assets/a7b5a976-d604-4b87-ae64-56e8a5424b0b)
 ![DRC](https://github.com/user-attachments/assets/677157ea-dbb1-4c55-a75e-da7e2061e62a)
 ![Detailed routing](https://github.com/user-attachments/assets/9fc88ee9-ebbb-4168-ab95-8677ae71f041)
+[VSD FILE.docx](https://github.com/user-attachments/files/16519521/VSD.FILE.docx)
